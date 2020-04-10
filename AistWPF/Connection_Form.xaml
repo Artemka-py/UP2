@@ -1,0 +1,31 @@
+﻿<Window x:Class="AistWPF.Connection_Form"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AistWPF"
+        mc:Ignorable="d"
+        Title="Настройка подключения" Height="250" Width="800" Background="#FF0FD9A1" Loaded="Window_Loaded_1">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Content="Название сервера:" Name="lblServers" FontSize="20" ></Label>
+        <ComboBox Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" IsEnabled="False"  Name="cbServers" FontSize="15" Margin="5,5,5,5" SelectionChanged="cbServers_SelectionChanged"></ComboBox> 
+        <Label Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Content="Название базы данных:" Name="lblDatabases" FontSize="20"></Label>
+        <ComboBox Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" IsEnabled="False" Name="cbDatabases" FontSize="15" Margin="5,5,5,5"></ComboBox>
+        <Button Grid.Row="4" Grid.Column="0" Grid.RowSpan="2" Content="Проверить подключение" Name="btChecked" FontSize="20" Margin="5,5,5,5" Click="btChecked_Click"></Button>
+        <Button Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Content="Подключиться" Name="btConnect" FontSize="20" Margin="5,5,5,5" Click="btConnect_Click"></Button>
+        <Button Grid.Row="4" Grid.Column="2" Grid.RowSpan="2" Content="Отмена" Name="btCancel" FontSize="20" Margin="5,5,5,5" Click="btCancel_Click"></Button> 
+    </Grid>
+</Window>

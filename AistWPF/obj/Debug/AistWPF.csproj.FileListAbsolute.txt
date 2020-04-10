@@ -1,0 +1,109 @@
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\bin\Debug\AistWPF.exe.config
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\bin\Debug\AistWPF.exe
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\bin\Debug\AistWPF.pdb
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.csprojAssemblyReference.cache
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\MainWindow.g.cs
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\App.g.cs
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF_MarkupCompile.cache
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF_MarkupCompile.lref
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\MainWindow.baml
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.g.resources
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.Properties.Resources.resources
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.csproj.GenerateResource.cache
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.csproj.CoreCompileInputs.cache
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.exe
+E:\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.pdb
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.csprojAssemblyReference.cache
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\Registration.g.cs
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\Authorization.g.cs
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\App.g.cs
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF_MarkupCompile.cache
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF_MarkupCompile.lref
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.exe
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.pdb
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\bin\Debug\AistWPF.exe.config
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\bin\Debug\AistWPF.exe
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\bin\Debug\AistWPF.pdb
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\Registration.baml
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\Authorization.baml
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.g.resources
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.Properties.Resources.resources
+D:\WAPAGA\Третий курс\РВиАПО(Разработка, внедрение и адаптация ПО)\Практика\AistWPF\AistWPF\obj\Debug\AistWPF.csproj.GenerateResource.cache
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\AistWPF.csprojAssemblyReference.cache
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\Registration.g.cs
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\Authorization.g.cs
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\App.g.cs
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\AistWPF_MarkupCompile.cache
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\AistWPF_MarkupCompile.lref
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\AistWPF.exe
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\AistWPF.pdb
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\AistWPF.exe.config
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\AistWPF.exe
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\AistWPF.pdb
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\Registration.baml
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\Authorization.baml
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\AistWPF.g.resources
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\AistWPF.Properties.Resources.resources
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\AistWPF.csproj.GenerateResource.cache
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\obj\Debug\AistWPF.csproj.CopyComplete
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\djart\Desktop\Практика\Реализация\aist\AistWPF\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\AistWPF.exe.config
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\AistWPF.exe
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\AistWPF.pdb
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\AistWPF.csprojAssemblyReference.cache
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\Connection_Form.g.cs
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\Registration.g.cs
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\App.g.cs
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\AistWPF_MarkupCompile.cache
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\AistWPF_MarkupCompile.lref
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\Connection_Form.baml
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\Registration.baml
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\AistWPF.g.resources
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\AistWPF.Properties.Resources.resources
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\AistWPF.csproj.GenerateResource.cache
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\AistWPF.csproj.CopyComplete
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\AistWPF.exe
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\AistWPF.pdb
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\CryptLibraryING.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\bin\Debug\CryptLibraryING.pdb
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\MainWindow.g.cs
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\AistWPF\obj\Debug\MainWindow.baml

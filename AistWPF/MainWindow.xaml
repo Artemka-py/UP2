@@ -1,0 +1,44 @@
+﻿<Window x:Class="AistWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AistWPF"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        mc:Ignorable="d"
+        Title="Вход" Height="250" Width="500" FontSize="16" 
+        WindowStartupLocation="CenterScreen" Background="#FF0FD9A1">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Name="lblForgot"  Grid.Row="0" FontSize="12" Grid.Column="2"  HorizontalAlignment="Right" TextOptions.TextHintingMode="Fixed">
+            <TextBlock FontFamily="Times New Roman" TextDecorations="Underline">Забыли пароль?</TextBlock>
+        </Label>
+
+        <Label Name="lblLogin" Grid.Row="1" Grid.Column="0" Content="Логин: " HorizontalAlignment="Center"></Label>
+        <TextBox Name="tbLogin" Grid.Row="1"  VerticalContentAlignment="Center" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,0,20,0"/>
+
+        <Label Name="lblPassword" Grid.Row="3" Grid.Column="0" Content="Пароль: " HorizontalAlignment="Center"></Label>
+        <PasswordBox Name="tbPassword" Grid.Row="3" Grid.Column="1" VerticalContentAlignment="Center" Grid.ColumnSpan="2" Margin="0,0,20,0" />
+
+        <UniformGrid Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Columns="2">
+            <Button Name="btEnter"  Content="Вход" Width="150" Height="30" Click="btEnter_Click"></Button>
+            <Button Name="btCancel"  Content="Отмена" Width="150" Height="30" Click="btCancel_Click"></Button>
+        </UniformGrid>
+
+
+        <Button Name="btReg" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" Content="Регистрация" Height="30" Width="300" Click="btReg_Click" ></Button>
+
+    </Grid>
+</Window> 

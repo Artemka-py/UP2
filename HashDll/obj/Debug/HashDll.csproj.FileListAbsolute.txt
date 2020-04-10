@@ -1,0 +1,4 @@
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\HashDll\bin\Debug\HashDll.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\HashDll\bin\Debug\HashDll.pdb
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\HashDll\obj\Debug\HashDll.dll
+C:\Users\djart\Desktop\Практика\Реализация\UP-master\HashDll\obj\Debug\HashDll.pdb

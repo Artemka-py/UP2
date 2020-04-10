@@ -1,0 +1,82 @@
+﻿<Window x:Class="AistWPF.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AistWPF"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        mc:Ignorable="d"
+        Title="Registration" Height="700" Width="600" FontSize="18" 
+        WindowStartupLocation="CenterScreen" Background="#FF0FD9A1">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Name="lblStajer" Content="Ваш код стажировки:" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" HorizontalContentAlignment="Center"></Label>
+        <xctk:IntegerUpDown Name="tbStajer" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="1" Minimum="0"/>
+        <Button Name="btStag" Content ="Подтвердить стажировку" Grid.Column="1" Grid.Row="1" Click="btStag_Click"></Button>
+
+        <Label Name="lblVvod" Content="Введите ваши данные" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" HorizontalContentAlignment="Center"></Label>
+
+        <Label Name="lblFam" Content="Фамилия:" Grid.Column="0" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="tbFam" Grid.Column="1" Grid.Row="3"  IsEnabled="False"></TextBox>
+
+        <Label Name="lblIm" Content="Имя:" Grid.Column="0" Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="tbIm" Grid.Column="1" Grid.Row="5" IsEnabled="False"></TextBox>
+
+        <Label Name="lblOtch" Content="Отчество(если есть):" Grid.Column="0" Grid.Row="7" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="tbOtch" Grid.Column="1" Grid.Row="7" IsEnabled="False"></TextBox>
+
+        <Label Name="lblDate_Rojd" Content="Дата рождения:" Grid.Column="0" Grid.Row="9" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="tbdate_Rojd" Grid.Column="1" Grid.Row="9" IsEnabled="False"></TextBox>
+
+        <Label Name="lblSer_Pas" Content="Серия паспорта:" Grid.Column="0" Grid.Row="11" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="tbSer_Pas" Grid.Column="1" Grid.Row="11" IsEnabled="False"></TextBox>
+
+        <Label Name="lblNum_Pas" Content="Номер паспорта:" Grid.Column="0" Grid.Row="13" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="tbNum_Pas"  Grid.Column="1" Grid.Row="13" IsEnabled="False"></TextBox>
+
+        <Label Name="lblAuth" Content="Укажите данные для входа" Grid.Column="0" Grid.Row="14" Grid.ColumnSpan="2" HorizontalContentAlignment="Center"></Label>
+
+        <Label Name="lblLogin" Content="Логин:" Grid.Column="0" Grid.Row="15" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <TextBox Name="tbLogin" Grid.Column="1" Grid.Row="15" IsEnabled="False"></TextBox>
+
+        <Label Name="lblPassword" Content="Пароль:" Grid.Column="0" Grid.Row="17" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <PasswordBox Name="tbPassword" Grid.Column="1" Grid.Row="17" IsEnabled="False"></PasswordBox>
+
+        <Label Name="lblConfPassword" Content="Повторите пароль:" Grid.Column="0" Grid.Row="19" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <PasswordBox Name="tbConfPassword" Grid.Column="1" Grid.Row="19" IsEnabled="False"></PasswordBox>
+
+        <UniformGrid Columns="2" Grid.Row="21" Grid.Column="0" Grid.ColumnSpan="2">
+            <Button Name="btReg" Content="Зарегистрироваться" Width="250" IsEnabled="False" Click="btReg_Click"/>
+
+            <Button Name="btCancel"  Content="Отмена" Width="250"/>
+        </UniformGrid>
+    </Grid>
+</Window>
